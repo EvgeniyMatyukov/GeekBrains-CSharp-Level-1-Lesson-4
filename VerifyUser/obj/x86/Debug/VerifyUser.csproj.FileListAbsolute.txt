@@ -1,0 +1,5 @@
+E:\Matyukov\csharp\Lesson4\VerifyUser\bin\Debug\VerifyUser.exe
+E:\Matyukov\csharp\Lesson4\VerifyUser\bin\Debug\VerifyUser.pdb
+E:\Matyukov\csharp\Lesson4\VerifyUser\obj\x86\Debug\VerifyUser.exe
+E:\Matyukov\csharp\Lesson4\VerifyUser\obj\x86\Debug\VerifyUser.pdb
+e:\Matyukov\csharp\Lesson4\VerifyUser\obj\x86\Debug\VerifyUser.csprojResolveAssemblyReference.cache

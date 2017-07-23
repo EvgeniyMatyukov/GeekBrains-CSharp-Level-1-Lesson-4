@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassArray", "ClassArray\ClassArray.csproj", "{646506E0-1638-4DB7-ABE2-B6450BECD115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToFindCouple", "ToFindCouple\ToFindCouple.csproj", "{4835179E-031D-4443-B81C-20834F98EC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerifyUser", "VerifyUser\VerifyUser.csproj", "{67D403F1-E3EB-489F-B6E9-67E165E1BD96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646506E0-1638-4DB7-ABE2-B6450BECD115}.Debug|x86.ActiveCfg = Debug|x86
+		{646506E0-1638-4DB7-ABE2-B6450BECD115}.Debug|x86.Build.0 = Debug|x86
+		{646506E0-1638-4DB7-ABE2-B6450BECD115}.Release|x86.ActiveCfg = Release|x86
+		{646506E0-1638-4DB7-ABE2-B6450BECD115}.Release|x86.Build.0 = Release|x86
+		{4835179E-031D-4443-B81C-20834F98EC31}.Debug|x86.ActiveCfg = Debug|x86
+		{4835179E-031D-4443-B81C-20834F98EC31}.Debug|x86.Build.0 = Debug|x86
+		{4835179E-031D-4443-B81C-20834F98EC31}.Release|x86.ActiveCfg = Release|x86
+		{4835179E-031D-4443-B81C-20834F98EC31}.Release|x86.Build.0 = Release|x86
+		{67D403F1-E3EB-489F-B6E9-67E165E1BD96}.Debug|x86.ActiveCfg = Debug|x86
+		{67D403F1-E3EB-489F-B6E9-67E165E1BD96}.Debug|x86.Build.0 = Debug|x86
+		{67D403F1-E3EB-489F-B6E9-67E165E1BD96}.Release|x86.ActiveCfg = Release|x86
+		{67D403F1-E3EB-489F-B6E9-67E165E1BD96}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

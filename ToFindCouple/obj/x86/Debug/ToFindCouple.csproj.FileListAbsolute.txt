@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\Lesson4\ToFindCouple\bin\Debug\ToFindCouple.exe
+E:\Matyukov\csharp\Lesson4\ToFindCouple\bin\Debug\ToFindCouple.pdb
+E:\Matyukov\csharp\Lesson4\ToFindCouple\obj\x86\Debug\ToFindCouple.exe
+E:\Matyukov\csharp\Lesson4\ToFindCouple\obj\x86\Debug\ToFindCouple.pdb

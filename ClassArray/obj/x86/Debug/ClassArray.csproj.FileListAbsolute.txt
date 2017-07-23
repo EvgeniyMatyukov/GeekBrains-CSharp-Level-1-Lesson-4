@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\Lesson4\ClassArray\bin\Debug\ClassArray.exe
+E:\Matyukov\csharp\Lesson4\ClassArray\bin\Debug\ClassArray.pdb
+E:\Matyukov\csharp\Lesson4\ClassArray\obj\x86\Debug\ClassArray.exe
+E:\Matyukov\csharp\Lesson4\ClassArray\obj\x86\Debug\ClassArray.pdb
